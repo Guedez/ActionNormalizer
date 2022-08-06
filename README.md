@@ -3,7 +3,8 @@ Speeds up actions inversely proportionally to how many actions you took
 
 #### What does it do: 
 Ensures bots and players can do the same amount of actions per day without placing hard caps on anyone. That also goes to hardly active players and very active players, everyone gets leveled to the same level plus minus a couple of hours.
-How it does: For every second you are not doing an action, said second is added to a counter, when you do an action, said action will have it's duration reduced proportionally by the counter, and the counter will lose as many seconds as the action took (or would've taken, I don't remember)
+#### How it does: 
+For every second you are not doing an action, said second is added to a counter, when you do an action, said action will have it's duration reduced proportionally by the counter, and the counter will lose as many seconds as the action took (or would've taken, I don't remember)
 #### Known side effects: 
 Exacerbates greatly how bad having alts is, since the alts will get buffed with everyone else. This mod on default settings is a 4x overall speed increase, so a 1x action 1x skill server will play like a 4x action 1x skill when this is added.
 #### Performance Impact: 
